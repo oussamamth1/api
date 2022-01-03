@@ -38,7 +38,7 @@ use Symfony\Component\Serializer\Annotation\Groups;
  */
 class Artical
 { 
-use Timestampable;
+
 use ResourceId;
     // /**
     //  * @ORM\Id
